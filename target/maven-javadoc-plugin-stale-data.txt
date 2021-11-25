@@ -1,0 +1,41 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP11/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP11/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP11 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP11/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP11 1.0-SNAPSHOT API'
+com.mycompany.poop11
+'C:/Users/Hyperion/OneDrive - Facultad de Ingeniería UNAM/Semestre 2022-1/POO/Projectos/POOP11/src/main/java/com/mycompany/poop11/Main.java'
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\src\main\java = 1637240976655
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\allclasses-frame.html = 1637801433939
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\allclasses-noframe.html = 1637801433941
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\constant-values.html = 1637801433901
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\deprecated-list.html = 1637801433936
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\help-doc.html = 1637801433951
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\index-all.html = 1637801433926
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\index.html = 1637801433944
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\overview-tree.html = 1637801433921
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\package-list = 1637801433872
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\script.js = 1637801433957
+C:\Users\Hyperion\OneDrive - Facultad de Ingeniería UNAM\Semestre 2022-1\POO\Projectos\POOP11\target\site\apidocs\stylesheet.css = 1637801433955
